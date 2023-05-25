@@ -1,0 +1,8 @@
+I'm a Chinese from China,
+and I'll basically use Python for programming, and occasionally HTML.
+All the programs I have written are Chinese,
+so if you want to use the programs,
+please bring your own translation tools.
+我是一个来自中国的中国人，
+以后我编程序基本上都用python，偶尔用一下HTML。
+我编的程序全部都是使用中文，要使用程序的话，请自备翻译工具。
